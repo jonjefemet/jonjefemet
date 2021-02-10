@@ -1,5 +1,13 @@
 ### Hi there 👋
-![alt text](https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif)
+
+### <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif" width="50" alt=""> A little more about me...
+
+- 🔭 I’m a web developer, lover of waifus and vtuber
+
+<img src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" width="400" alt="">
+
+
+<!-- ![alt text](https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif)-->
 
 <!--
 **jonjefemet/jonjefemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
