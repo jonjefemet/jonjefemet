@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif)
 
 <!--
 **jonjefemet/jonjefemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
