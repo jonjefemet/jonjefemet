@@ -1,10 +1,9 @@
-### Hola Amigos  <img src="https://64.media.tumblr.com/c53e00aaf3d7a5cba2967284c886dc6a/69e2040d06688b4d-15/s250x400/c84865f8eb22cb31a1a3d654f55badef6fb3d26f.gifv" width="50" alt="">
+### Hola Amigos  
 
 ### <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif" width="50" alt=""> A little more about me...
 
 - I’m a web developer, lover of waifus and vtuber
-
-
+- Really like programming and learning new things.
 - Waifu Favorita del Mes (Maho - D4DJ)
 <img src="https://media1.tenor.com/images/0277c62b0027bd0b749d3a0eac106d27/tenor.gif?itemid=19724908" width="200" alt="">
 
