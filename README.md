@@ -8,6 +8,7 @@
 <img src="https://media1.tenor.com/images/0277c62b0027bd0b749d3a0eac106d27/tenor.gif?itemid=19724908" width="200" alt="">
 
 ***I specialize in back end development, I enjoy developing script to automate tasks and most importantly, to be able to help another person***	
+
 <img src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" width="400" alt="">
 
 <!--
