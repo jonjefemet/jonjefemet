@@ -11,6 +11,10 @@
 
 <img src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" width="400" alt="">
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonmartinez&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonmartinez&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jonjefemet/jonjefemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
