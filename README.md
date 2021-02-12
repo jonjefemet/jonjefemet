@@ -1,6 +1,7 @@
 ### Hola Amigos  
 
 ### <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif" width="50" alt=""> A little more about me...
+<a href="https://mx.linkedin.com/in/jonshua-raul-martinez-chi-202010140" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 - I’m a web developer, lover of waifus and vtuber
 - Really like programming and learning new things.
