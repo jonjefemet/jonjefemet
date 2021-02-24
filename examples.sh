@@ -23,3 +23,6 @@ show_menus() {
 }
 
 show_menus
+
+grep -o  "https://lectortmo.com/library/manga/manga/.*?(?=\">)" test.html
+
