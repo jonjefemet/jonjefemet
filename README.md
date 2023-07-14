@@ -13,6 +13,7 @@
 <code><img height="20" width="20" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" /></code>
 <code><img height="20" width="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></code>
 <code><img height="20" width="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code>
+<code><img height="20" width="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></code>
 
 <img src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" width="400" alt="">
 
