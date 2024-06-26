@@ -5,7 +5,7 @@
 
 - I’m a web developer, lover of waifus and vtuber
 - Really like programming and learning new things.
-- Waifu Favorita 2023 (Maho - D4DJ)
+- Waifu Favorita 2024 (Maho - D4DJ)
 <img src="https://media1.tenor.com/images/0277c62b0027bd0b749d3a0eac106d27/tenor.gif?itemid=19724908" width="200" alt="">
 
 ***I specialize in back end development, I enjoy developing script to automate tasks and most importantly, to be able to help another person***	
