@@ -2,65 +2,70 @@
 
 ## Biografía
 
-Soy una persona creativa y apasionada por encontrar soluciones innovadoras a los desafíos tecnológicos. Fuera del trabajo, soy un fanático del mariachi y el J-pop, amante del café, y disfruto jugando videojuegos de temática RPG o puzzle, así como leyendo manga y novelas ligeras.
-
-Me encanta aplicar Domain-Driven Design (DDD) porque permite crear soluciones alineadas con las necesidades del negocio, facilitando la comunicación entre equipos técnicos y expertos en negocio y asegurando que el software aporte valor real a la organización.
-
-Mi lenguaje de programación favorito es PHP por su simplicidad, facilidad de enseñanza, manipulabilidad y versatilidad. Aspiro a vivir según estos principios, siendo adaptable y siempre dispuesto a apoyar a los demás.
+Soy ingeniero de software enfocado en diseñar soluciones limpias, escalables y alineadas con las necesidades del negocio. Practico Domain‑Driven Design para traducir la complejidad de negocio en código mantenible y disfruto compartir conocimiento y trabajar en equipo.
 
 ## Habilidades
+
+### Resumen de Habilidades Técnicas
+
+| Área | Conceptos clave |
+|---|---|
+| **Arquitectura** | Diseño orientado a eventos (bus de eventos), Microservicios, Serverless, Kubernetes, Multi‑región, Micro‑frontends, Hexagonal/Clean |
+| **Gobernanza de Datos** | Catálogos estandarizados, Lenguaje ubicuo, Calidad y linaje de datos, Versionado de esquemas |
+| **Integración & Mensajería** | Orquestación y coreografía con buses de eventos, Comunicación asíncrona, Idempotencia, Retried Delivery |
+| **Entrega & Operación** | CI/CD automatizado, Infraestructura como código, Observabilidad end‑to‑end (métricas, logs, tracing), Gestión de secretos |
+| **Calidad & Mejores Prácticas** | Domain‑Driven Design, TDD/BDD, SOLID, Refactorización continua, Code Review |
+| **Cloud & Resiliencia** | Alta disponibilidad, Escalado horizontal, Diseño tolerante a fallos, Estrategias multi‑región |
 
 ### Lenguajes de Programación
 
 <p>
-  <strong><img src="https://img.icons8.com/color/24/000000/typescript.png" alt="TypeScript Icon"> <span style="font-size: larger;">TypeScript</span> &nbsp;</strong>
-  <strong><img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript Icon"> <span style="font-size: larger;">JavaScript</span> &nbsp;</strong>
-  <strong><img src="https://img.icons8.com/officel/24/000000/php-logo.png" alt="PHP Icon"> <span style="font-size: larger;">PHP</span> &nbsp;</strong>
-  <strong><img src="https://img.icons8.com/color/24/000000/python.png" alt="Python Icon"> <span style="font-size: larger;">Python</span> &nbsp;</strong>
-  <strong><img src="https://img.icons8.com/color/24/000000/sql.png" alt="SQL Icon"> <span style="font-size: larger;">SQL</span> &nbsp;</strong>
-  <img src="https://img.icons8.com/color/16/000000/java-coffee-cup-logo.png" alt="Java Icon"> Java &nbsp;
-  <img src="https://img.icons8.com/windows/16/000000/console.png" alt="Bash Icon"> Bash &nbsp;
-  <img src="https://img.icons8.com/windows/16/000000/console.png" alt="Shell Icon"> Shell &nbsp;
-  <img src="https://img.icons8.com/color/16/000000/visual-studio.png" alt="Visual Basic Icon"> Visual Basic &nbsp;
-  <img src="https://img.icons8.com/color/16/000000/c-sharp-logo.png" alt="C# Icon"> C#
+  <img src="https://img.icons8.com/color/24/000000/typescript.png" alt="TypeScript" title="TypeScript"/> TypeScript &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" title="JavaScript"/> JavaScript &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/officel/24/000000/php-logo.png" alt="PHP" title="PHP"/> PHP &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" title="Python"/> Python &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/> Java &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/windows/24/000000/console.png" alt="Bash/Shell" title="Bash / Shell"/> Bash&nbsp;/&nbsp;Shell &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/visual-studio.png" alt="Visual Basic" title="Visual Basic"/> Visual&nbsp;Basic &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/c-sharp-logo.png" alt="C#" title="C#"/> C#
 </p>
 
-### Herramientas y tecnologías
+### Bases de Datos
 
 <p>
-  <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git Icon"> <span style="font-size: larger;">Git</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/docker.png" alt="Docker Icon"> <span style="font-size: larger;">Docker</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png" alt="VS Code Icon"> <span style="font-size: larger;">VS Code</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/file.png" alt="Makefile Icon"> <span style="font-size: larger;">Makefile</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/windows-10.png" alt="WSL Icon"> <span style="font-size: larger;">WSL</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/linux.png" alt="Linux Icon"> <span style="font-size: larger;">Linux</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/settings.png" alt="Buildspec Icon"> <span style="font-size: larger;">Buildspec</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/jira.png" alt="Jira Icon" width="24"> <span style="font-size: larger;">Jira</span> &nbsp;
-  <img src="https://img.icons8.com/color/24/000000/flask.png" alt="Flask Icon" width="24"> <span style="font-size: larger;">Flask</span> &nbsp;
-  <span style="font-size: larger;">Composer</span> &nbsp;
-  <span style="font-size: larger;">NPM</span> &nbsp;
-  <span style="font-size: larger;">Yarn</span> &nbsp;
-  <span style="font-size: larger;">pip</span> &nbsp;
-  <span style="font-size: larger;">node</span> &nbsp;
-  <span style="font-size: larger;">maven</span> &nbsp;
-  <span style="font-size: larger;">jest</span> &nbsp;
+  <img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB" title="MongoDB"/> MongoDB &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/> PostgreSQL &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" alt="MySQL" title="MySQL"/> MySQL &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/> SQL&nbsp;Server &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/oracle-logo.png" alt="Oracle" title="Oracle"/> Oracle
+</p>
+
+### Herramientas y Tecnologías
+
+<p>
+  <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" title="Git"/> Git &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/docker.png" alt="Docker" title="Docker"/> Docker &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/> VS&nbsp;Code &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/file.png" alt="Makefile" title="Makefile"/> Makefile &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/linux.png" alt="Linux" title="WSL / Linux"/> WSL&nbsp;/&nbsp;Linux &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/jira.png" alt="Jira" title="Jira"/> Jira &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/flask.png" alt="Flask" title="Flask"/> Flask &nbsp;|&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/apachekafka-icon-315x512-jf57b8cy.png" alt="Kafka" title="Kafka" width="24"/> Kafka &nbsp;|&nbsp;
+  <img src="https://images.icon-icons.com/3914/PNG/512/prometheus_logo_icon_248769.png" alt="Prometheus" title="Prometheus" width="24"/> Prometheus &nbsp;|&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/maven-icon-289x512-ng3p7bv4.png" alt="Maven" title="Maven" width="10"/> Maven &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/nestjs.png" alt="NestJS" title="NestJS"/> NestJS &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/redis.png" alt="Redis" title="Redis"/> Redis &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot"/> Spring&nbsp;Boot &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/fluency/24/000000/flow-chart.png" alt="Mermaid" title="Mermaid"/> Mermaid &nbsp;|&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/image-processing-ai-artificial-intelligence-icon-96x96-bo58z4io.png" alt="AI / ML" title="AI / ML" width="15" /> AI&nbsp;/&nbsp;ML &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/package.png" alt="Package Managers" title="Composer, NPM / Yarn, pip, Maven"/> Package&nbsp;Managers &nbsp;|&nbsp;
+  <img src="https://img.icons8.com/plasticine/24/000000/test-tube.png" alt="Jest" title="Jest"/> Jest
+
 </p>
 
 ### Servicios AWS
 
-<p>
-  <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png" alt="AWS Icon"> <span style="font-size: larger;">AWS</span> &nbsp;
-  <img src="aws/lambda.png" alt="Lambda Icon" width="24"> <span style="font-size: larger;">Lambda</span> &nbsp;
-  <img src="aws/rds.png" alt="RDS Icon" width="24"> <span style="font-size: larger;">RDS</span> &nbsp;
-  <img src="aws/sqs.png" alt="SQS Icon" width="24"> <span style="font-size: larger;">SQS</span> &nbsp;
-  <img src="aws/sns.png" alt="SNS Icon" width="24"> <span style="font-size: larger;">SNS</span> &nbsp;
-  <img src="aws/ses.png" alt="SES Icon" width="24"> <span style="font-size: larger;">SES</span> &nbsp;
-  <img src="aws/se.png" alt="Secrets Manager Icon" width="24"> <span style="font-size: larger;">Secrets Manager</span> &nbsp;
-  <img src="aws/sm.png" alt="Systems Manager Icon" width="24"> <span style="font-size: larger;">Systems Manager</span> &nbsp;
-  <img src="aws/cb.png" alt="CodeBuild Icon" width="24"> <span style="font-size: larger;">CodeBuild</span> &nbsp;
-  <img src="aws/DynamoDB.png" alt="DynamoDB Icon" width="24"> <span style="font-size: larger;">DynamoDB</span> &nbsp;
-  <img src="aws/APIGateway.png" alt="APIGateway Icon" width="24"> <span style="font-size: larger;">API Gateway</span> &nbsp;
-</p>
+Lambda | RDS | SQS | SNS | SES | Secrets Manager | Systems Manager | DynamoDB | API Gateway | EKS | CloudWatch | S3 | AppSync | EventBridge | DocumentDB | Elasticsearch
 
 ### Metodologías
 
@@ -96,6 +101,8 @@ Gracias a estas herramientas se detectaron problemas con latencia de sistemas ex
 Tuve un fuerte impacto en la eleboracion de una plantilla para el nuevo stacks de tegnologias, donde se implemento una arquitectura CLEAN, con un enfoque en la separacion de capas y la implementacion de pruebas unitarias y de integracion. Se implemento DDD para la creacion de servicios y se implemento BDD para la creacion de pruebas de integracion.
 
 - Equipo reservaciones: se implemento la filosofia de producto, donde el objectivo principal es la creacion de un sistema unifcado de reservas (OTAS, GDS, Internos), estuve acargo del equipo donde se abordo el metodo del doble diamante, con el cual se pudo identificar las necesidades que tenemos como empresa y poder generar metrias para la toma de decisiones.
+
+- Equipo plataforma: Con un enfoque de filosofía de producto, lideré la Fase 1 de homologación de sistemas y gobernanza de información y datos. Implementamos un lenguaje unificado con catálogos estandarizados gestionados desde un servicio central y orquestado mediante **Apache Kafka**, garantizando que todos los sistemas dispusieran de información actualizada para proyecciones. En la Fase 2 migramos los microservicios de **AWS Lambda** a **Kubernetes** sobre **Java**, habilitando operación multi‑región y construyendo la nueva plataforma de reservaciones basada en microservicios y micro‑frontends.
   
 ### Ozelot Technologies
 
@@ -123,9 +130,6 @@ Este proyecto consistió en el desarrollo de un sistema escolar integral utiliza
 
 Para la persistencia de datos, se utilizó SQL Server. El sistema fue desplegado y administrado utilizando el servidor de aplicaciones IIS (Internet Information Services).
 
-## Contacto
+### Contacto
 
-- <a href="https://mx.linkedin.com/in/jonshua-raul-martinez-chi-202010140" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-- <a href="https://github.com/jonjefemet" target="_blank"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
-- <a href="mailto:jonshua_97@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email--_.svg?style=social&logo=gmail" alt="Email"> jonshua_97@outlook.com</a>
-- Numero de telefono: <a href="tel:+529984096750">+52 998 409 6750</a>
+<p><img src="https://img.icons8.com/material-sharp/24/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/> <a href="https://mx.linkedin.com/in/jonshua-raul-martinez-chi-202010140" target="_blank">LinkedIn</a> &nbsp;|&nbsp; <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="GitHub" title="GitHub"/> <a href="https://github.com/jonjefemet" target="_blank">GitHub</a> &nbsp;|&nbsp; <img src="https://img.icons8.com/material-outlined/24/000000/new-post.png" alt="Email" title="Correo electrónico"/> <a href="mailto:jonshua_97@outlook.com">jonshua_97@outlook.com</a> &nbsp;|&nbsp; <img src="https://img.icons8.com/material-rounded/24/000000/phone.png" alt="Teléfono" title="Teléfono"/> <a href="tel:+529984096750">+52 998 409 6750</a></p>
