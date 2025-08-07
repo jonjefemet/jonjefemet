@@ -1,37 +1,55 @@
-### Hola Amigos  
+![Hey, I'm Jon: backend dev and Dragon Quest adventurer](https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif)
 
-### <img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif" width="50" alt=""> A little more about me...
-<a href="https://mx.linkedin.com/in/jonshua-raul-martinez-chi-202010140" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+[![GitHub followers](https://img.shields.io/github/followers/jonjefemet?logo=GitHub&style=for-the-badge)](https://github.com/jonjefemet) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/jonjefemet?logo=github&style=for-the-badge)](https://github.com/jonjefemet?tab=repositories) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge)](https://mx.linkedin.com/in/jonshua-raul-martinez-chi-202010140)
 
-- I’m a web developer, lover of waifus and vtuber
-- Really like programming and learning new things.
-- Waifu Favorita 2025 (Maho - D4DJ)
-<img src="https://media1.tenor.com/images/0277c62b0027bd0b749d3a0eac106d27/tenor.gif?itemid=19724908" width="200" alt="">
+## 👋 Hi there
 
-***I specialize in back end development, I enjoy developing script to automate tasks and most importantly, to be able to help another person***	
+I'm a backend developer. I enjoy building stable services, time‑saving automations, and small side projects with an RPG touch. Dragon Quest, waifus and vtubers fan. If you like building without drama, we’re in the same party.
 
-<code><img height="20" width="20" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" /></code>
-<code><img height="20" width="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></code>
-<code><img height="20" width="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /></code>
-<code><img height="20" width="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /></code>
+&nbsp;
 
-<img src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" width="400" alt="">
+## 👇 Current project
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jonjefemet&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Utilities and microservices to automate everyday tasks. Goal: less manual work, more EXP for the whole team. If you want to collaborate, ping me on LinkedIn.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonjefemet&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
 
-<!--
-**jonjefemet/jonjefemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✏️ Blog / Notes
 
-Here are some ideas to get you started:
+<!-- BLOG-POST-LIST:START -->
+- Coming soon: technical notes and mini‑guides.
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+## 🧰 My toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+
+&nbsp;
+
+## 📊 Stats
+
+![Jon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonjefemet&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonjefemet&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+&nbsp;
+
+## 🧙 Adventurer’s Log
+- Vocation: Backend Hero (API crafter, cron‑job tamer)
+- Commands: Fight (ship), Spell (automate), Defend (tests & observability)
+- Status: LV 27 | HP ████████░░ | MP ██████████ | INT █████████░
+
+—
+
+If your quest needs a teammate who levels up with good vibes, summon `@jonjefemet`.
