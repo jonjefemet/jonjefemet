@@ -1,4 +1,6 @@
-![Hey, I'm Jon: backend dev and Dragon Quest adventurer](https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif)
+<div align="center">
+<img src="https://walfiegif.files.wordpress.com/2020/11/out-transparent-24.gif" width="60%" alt="Hey, I'm Jon: backend dev and Dragon Quest adventurer" />
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/jonjefemet?logo=GitHub&style=for-the-badge)](https://github.com/jonjefemet) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/jonjefemet?logo=github&style=for-the-badge)](https://github.com/jonjefemet?tab=repositories) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge)](https://mx.linkedin.com/in/jonshua-raul-martinez-chi-202010140)
 
